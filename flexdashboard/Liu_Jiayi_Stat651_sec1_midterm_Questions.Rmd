@@ -1,0 +1,45 @@
+---
+title: "Stat651 sec1 midterm"
+author: "Liu, Jiayi"
+output:
+  word_document: default
+  pdf_document: default
+  html_document:
+    df_print: paged
+---
+
+#1) Find an example of a Shiny App that uses a heatmap. Download the code and get it to work.
+
+ Deatil in Q1 heatmap file: run "Ui.R" and "server.R"
+
+
+
+#2) Download the Shiny App that plots the Google Trend Index for five topics. Change the topics to 6 other related topics of interest to you. Get the code to work.
+ detail in Q2 GoogleTrendsIndexShiny file: run "app.R"
+
+
+
+
+#3) Make a flexdashboard for the Ford GoBike monthly users and yearly users. Add a smoother to any scatterplots you make. Explain.
+ detail in Q3 A flexdashboard.html
+ 
+## write.csv of fordgobike from original notebook and copy into new project.
+
+## Please be patience for the plotly makes the dashboard very slow.
+
+
+From month plot, we can find that the numbers of users of 2017 is smaller than those of 2018. 
+
+In 2017,  the number startes from June, increased by month and began to decrease from October. In my opinion, the reason is seasonal aspect that people who ride bycle is less in winter.
+
+In 2018, the number increased from Janurary to July and decreased from Augest, and the reason is still the season. Because Spring and Summer are suitble to ride a bycle.
+
+Compare the two type smooth lines, we can easily find that Loess Smoothed Fit is better than linear regression.
+
+From the year plot, we can easily find that the number of users of 2017 is smaller that those of 2018. There are two reasons: (1) The company started from 2017 and the users would increase with the development; (2) There are more people would like to have a ride in spring and summer than in fall and winter.
+Compare year's bar graph and month bar graph, we can find that each month of 2018 is bigger than corresponding month of 2017.
+
+
+
+
+
