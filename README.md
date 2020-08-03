@@ -11,3 +11,7 @@ https://public.tableau.com/profile/jane3161#!/vizhome/Unemploymentanalysis_15660
 
 Dynamic graphs:
 https://public.tableau.com/profile/jane3161#!/vizhome/1990-1993unemploymentinformationofUSA/Dashboard1
+
+
+Covid-19 plots of USA:
+https://public.tableau.com/profile/jane3161#!/vizhome/Covid19-US/Dashboard1?publish=yes
